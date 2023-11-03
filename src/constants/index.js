@@ -8,15 +8,10 @@ import {
   html,
   css,
   reactjs,
-  redux,
   tailwind,
   nodejs,
   git,
-  figma,
-  docker,
   postgresql,
-  rubyrails,
-  graphql,
   komikult,
   leaderboard,
   math,
@@ -57,10 +52,6 @@ const services = [
     title: 'UI/UX Design',
     icon: ux,
   },
-  {
-    title: 'Software Prototyping',
-    icon: prototyping,
-  },
 ];
 
 const technologies = [
@@ -85,10 +76,6 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: 'Redux Toolkit',
-    icon: redux,
-  },
-  {
     name: 'Tailwind CSS',
     icon: tailwind,
   },
@@ -97,28 +84,12 @@ const technologies = [
     icon: nodejs,
   },
   {
-    name: 'Rails',
-    icon: rubyrails,
-  },
-  {
-    name: 'graphql',
-    icon: graphql,
-  },
-  {
     name: 'postgresql',
     icon: postgresql,
   },
   {
     name: 'git',
     icon: git,
-  },
-  {
-    name: 'figma',
-    icon: figma,
-  },
-  {
-    name: 'docker',
-    icon: docker,
   },
 ];
 

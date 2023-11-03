@@ -37,8 +37,9 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, veritatis? Quidem, fuga aperiam enim velit sunt dolorum ipsam, quisquam eos soluta amet voluptas odit quae nostrum consequatur aspernatur repellendus culpa, qui omnis voluptate facere deserunt nobis explicabo molestias vero. Sed amet expedita officia aut. Saepe consectetur illum possimus provident accusantium?
-      </motion.p>
+Hello, I'm Zach, a passionate Front-End Web Developer and UI/UX Designer with a strong foundation in creating exceptional user experiences. With a keen eye for design and a love for code, I specialize in crafting visually stunning and highly functional websites and applications. <br />
+My journey in the world of web development began three years ago.
+In my toolbox, you'll find HTML5, CSS3, React, Tailwind CSS, and Bootstrap, which I use to bring design concepts to life and create seamless user interfaces. But I'm not just limited to the front end – I also possess strong back-end development skills, particularly in Express, Node.js, SQL, and Sequelize, allowing me to build complete, end-to-end solutions.      </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => (
