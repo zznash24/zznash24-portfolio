@@ -2,7 +2,6 @@ import {
   frontend,
   backend,
   ux,
-  prototyping,
   javascript,
   typescript,
   html,
@@ -17,11 +16,6 @@ import {
   math,
   movie,
   nyeusi,
-  space,
-  coverhunt,
-  dcc,
-  kelhel,
-  microverse,
 } from '../assets';
 
 export const navLinks = [
@@ -95,32 +89,32 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Front-End Developer',
-    company_name: 'Cover Hunt',
-    icon: coverhunt,
+    title: 'Web Developer Student',
+    company_name: 'DigitalCrafts',
+    icon: reactjs,
     iconBg: '#333333',
-    date: 'Aug 2021 - Feb 2022',
+    date: 'Nov 2021',
   },
   {
-    title: 'Mentor (Volunteer)',
-    company_name: 'Microverse',
-    icon: microverse,
+    title: 'Web Dev & Software Engineer Teaching Assistant',
+    company_name: 'DigitalCrafts',
+    icon: reactjs,
     iconBg: '#333333',
-    date: 'Mar 2022 - May 2022',
+    date: 'Feb 2023',
   },
   {
-    title: 'Junior Software Engineer',
-    company_name: 'Kelhel',
-    icon: kelhel,
+    title: 'UI & UX Front End Lead',
+    company_name: 'COR Hackathon',
+    icon: reactjs,
     iconBg: '#333333',
-    date: 'May 2022 - Oct 2022',
+    date: 'Oct 2023',
   },
   {
-    title: 'Full Stack Developer',
-    company_name: 'Diversity Cyber Council',
-    icon: dcc,
+    title: 'Front End Developer',
+    company_name: 'Nash Interactive Media',
+    icon: reactjs,
     iconBg: '#333333',
-    date: 'Sep 2022 - Present',
+    date: 'Sep 2023 - Present',
   },
 ];
 
