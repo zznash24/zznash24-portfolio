@@ -104,14 +104,14 @@ const Contact = () => {
           <label className="flex flex-col">
             <span className="text-timberWolf font-medium mb-4">
               Your Message
-              *Please re-enter the email into message section
             </span>
             <textarea
               rows="7"
               name="message"
               value={form.message}
               onChange={handleChange}
-              placeholder="What's your message?"
+              placeholder="What's your message?
+*Please re-enter the email into message section"
               className="bg-eerieBlack py-4 px-6
               placeholder:text-taupe
               text-timberWolf rounded-lg outline-none
