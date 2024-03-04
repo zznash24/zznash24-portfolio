@@ -11,11 +11,9 @@ import {
   nodejs,
   git,
   postgresql,
-  komikult,
-  leaderboard,
   math,
-  movie,
-  nyeusi,
+  myCompany,
+  underdog,
 } from '../assets';
 
 export const navLinks = [
@@ -121,8 +119,8 @@ const experiences = [
 const projects = [
   {
     id: 'project-1',
-    name: 'KomiKult',
-    description: 'A comic characters list app that displays Marvel characters.',
+    name: 'Nash Interactive Media',
+    description: 'My company website where i create websites and logos for customers.',
     tags: [
       {
         name: 'react',
@@ -137,15 +135,15 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: komikult,
-    repo: 'https://github.com/shaqdeff/KomiKult',
-    demo: 'https://shaqdeff.github.io/KomiKult/',
+    image: myCompany,
+    repo: 'https://github.com/zznash24/nash-interactive-media',
+    demo: 'https://nashinteractivemedia.com/',
   },
   {
     id: 'project-2',
-    name: 'Leaderboard',
+    name: 'Underdog Rescue',
     description:
-      'A leaderboard list app that displays scores submitted by different players.',
+      'A web app that allows user to input there zipcodes and serch for nearby adoptable dogs',
     tags: [
       {
         name: 'react',
@@ -160,9 +158,9 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: leaderboard,
-    repo: 'https://github.com/shaqdeff/Leaderboard',
-    demo: 'https://shaqdeff.github.io/Leaderboard/',
+    image: underdog,
+    repo: 'https://github.com/zznash24/front-end-project',
+    demo: 'https://underdog-rescue-fr.netlify.app',
   },
   {
     id: 'project-3',
@@ -185,51 +183,6 @@ const projects = [
     image: math,
     repo: 'https://github.com/shaqdeff/Math-Magicians',
     demo: 'https://inspiring-medovik-37d3b3.netlify.app/',
-  },
-  {
-    id: 'project-4',
-    name: 'Movie Metro',
-    description: `A single-page application that allows users to search for any movie or show's ratings and its details.`,
-    tags: [
-      {
-        name: 'nextjs',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'supabase',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'css',
-        color: 'pink-text-gradient',
-      },
-    ],
-    image: movie,
-    repo: 'https://github.com/shaqdeff/Movie-Metro',
-    demo: 'https://movie-metro.netlify.app/',
-  },
-  {
-    id: 'project-5',
-    name: 'Nyeusi Fest Site',
-    description:
-      'This is a demo concert website for a music festival called Nyeusi.',
-    tags: [
-      {
-        name: 'nextjs',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'supabase',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'css',
-        color: 'pink-text-gradient',
-      },
-    ],
-    image: nyeusi,
-    repo: 'https://github.com/shaqdeff/Nyeusi-Fest-Site',
-    demo: 'https://shaqdeff.github.io/Nyeusi-Fest-Site/',
   },
 ];
 

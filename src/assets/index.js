@@ -38,11 +38,9 @@ import graphql from './tech/graphql.png';
 import postgresql from './tech/postgresql.png';
 import rubyrails from './tech/rubyrails.png';
 
-import komikult from './projects/komikult.png';
-import leaderboard from './projects/leaderboard.png';
+import underdog from './projects/underdogrescue.png';
+import myCompany from './projects/myCompany.png';
 import math from './projects/math-magicians.png';
-import movie from './projects/movie-metro.png';
-import nyeusi from './projects/nyeusi.png';
 
 export {
   bwmap,
@@ -80,9 +78,7 @@ export {
   redux,
   tailwind,
   typescript,
-  komikult,
-  leaderboard,
   math,
-  movie,
-  nyeusi,
+  underdog,
+  myCompany,
 };
