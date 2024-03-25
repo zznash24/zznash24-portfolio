@@ -6,7 +6,7 @@ import worldmap from './backgrounds/world-map.png';
 import logo from './logo/logo.png';
 import logotext from './logo/logo-text-removebg.png';
 
-import zach from './personal/zach.jpg';
+import zach from './personal/zach-noBG.png';
 
 import backend from './icons/backend.png';
 import ux from './icons/ux.png';
