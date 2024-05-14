@@ -125,7 +125,7 @@ const projects = [
   {
     id: 'project-1',
     name: 'Nash Interactive Media',
-    description: 'My company website where i create websites and logos for customers.',
+    description: 'My company website where I create websites and logos for customers.',
     tags: [
       {
         name: 'react',
