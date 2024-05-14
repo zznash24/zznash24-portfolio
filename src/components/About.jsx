@@ -45,7 +45,7 @@ const About = () => {
         a keen eye for design and a love for code, I specialize in crafting
         visually stunning and highly functional websites and applications.
         My journey in the world of web development began three years ago. In my
-        toolbox, you'll find React.js, HTML5, CSS3, React, Tailwind CSS, and Bootstrap,
+        toolbox, you'll find HTML5, CSS3, React, Tailwind CSS, and Bootstrap,
         which I use to bring design concepts to life and create seamless user
         interfaces. But I'm not just limited to the front end – I also possess
         strong back-end development skills, particularly in Express, Node.js,
