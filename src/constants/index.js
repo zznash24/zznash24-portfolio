@@ -14,6 +14,7 @@ import {
   math,
   myCompany,
   underdog,
+  docker,
 } from '../assets';
 
 export const navLinks = [
@@ -82,6 +83,10 @@ const technologies = [
   {
     name: 'git',
     icon: git,
+  },
+  {
+    name: 'docker',
+    icon: docker,
   },
 ];
 
